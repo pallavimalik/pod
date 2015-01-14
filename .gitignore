@@ -19,6 +19,6 @@
 *.log
 
 ./idea
-
+.idea/pod.iml
 
 .DS_Store
