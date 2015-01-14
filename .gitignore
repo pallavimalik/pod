@@ -14,3 +14,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+*.log
+
+-.idea/workspace.xml
+./idea
++.idea/workspace.xml
+
+.DS_Store
