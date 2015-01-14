@@ -6,6 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
+.idea/workspace.xml
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
@@ -17,8 +18,7 @@
 
 *.log
 
--.idea/workspace.xml
 ./idea
-+.idea/workspace.xml
+
 
 .DS_Store
